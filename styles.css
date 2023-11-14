@@ -1,0 +1,67 @@
+
+
+.Meet img{
+    max-height: 200px;
+    margin-right: 20px;
+    
+}
+
+.Mampi{
+    display: flex;
+    
+}
+.Cebla{
+    display: flex;
+    justify-content: end;
+    
+}
+
+.Cebla img{
+    margin-left: 10px;
+}
+
+.carousel-item.active{
+    height : 400px;
+}
+
+.memories img{
+    height: 100%;
+    width: 100%;
+}
+
+#tap{
+    border: none;
+    background:none ;
+}
+.pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+
+body{
+    background-image: url("./Pics/back2.jpg");
+}
+
+.btn-primary{
+    background: #176B87;
+    border: none;
+    outline: none;
+}
+
+.btn-outline-secondary{
+    background: #EEEEEE;
+}
+
+p{
+    font-family: 'Edu TAS Beginner', cursive;
+    font: weight 500;
+}
+
+h1{
+    font-family: "Akaya Kanadaka";
+    font-size: 40px;
+}
+
+h2{
+    font-family: "Akaya Kanadaka";
+}
